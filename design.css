@@ -21,3 +21,18 @@ body{
     justify-content: center;
     text-align: center;
 }
+
+.contact-info {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.phone {
+    font-weight: bold;
+}
+
+.email {
+    font-style: italic;
+}
